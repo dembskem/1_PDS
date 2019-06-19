@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+19th june 2019
 
 ### Project Title
-Replace the Project Title
+PDSND
 
 ### Description
-Describe what your project is about and what it does
+This project is for evaluating the use of rental bike shares
 
 ### Files used
-Include the files used
+As documentated
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+No links to any repo that inspired me or blogposts I consulted.
 
+timeseries are available
+visualisations are available
