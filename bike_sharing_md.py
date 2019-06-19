@@ -29,7 +29,7 @@ def choose_city():
 
     print('Hello! Let\'s explore some US bikeshare data!')
 
-    # get users input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # get users input for one city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
 
     while True:
         city=input("For which city should your evaluation be based on? \nChicago, \nNew York City \nWashington?\n\n").lower()
