@@ -14,3 +14,4 @@ As documentated
 No links to any repo that inspired me or blogposts I consulted.
 
 timeseries are available
+visualisations are available
