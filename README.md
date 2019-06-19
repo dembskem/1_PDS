@@ -12,3 +12,5 @@ As documentated
 
 ### Credits
 No links to any repo that inspired me or blogposts I consulted.
+
+timeseries are available
